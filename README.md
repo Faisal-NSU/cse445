@@ -1,4 +1,5 @@
 <div align="center">
-    <h1>CSE 445</h1>
-    <i>A machine learning cluster analysis of different countries using google trend data. </i>
+    <h1>MACHINE LEARNING</h1>
+    <i> A cluster analysis among how population in different countries respond to covid 19 pandemic. </i>
+    <i> Dataset can be retrieved using Google Trends. </i>
 </div>
